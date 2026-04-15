@@ -27,6 +27,14 @@ Dataanlytics.csv
 #  3. Data Visualization
 - Created charts to understand trends
 - Compared price and rating
+
+![Graph1](graph1.png)
+
+![Graph2](graph(2).png)
+
+![Graph3](graph3.png)
+
+![Graph4](graph4.png)
  
 
 # 4. Sentiment Analysis
