@@ -5,6 +5,9 @@ This project extracts book data (Title, Price, Rating) from a website using Pyth
 - Python
 - BeautifulSoup
 - Pandas
+- Matplotlib
+- Seaborn
+- TextBlob
 
 # Features
 - Scraped multiple pages
