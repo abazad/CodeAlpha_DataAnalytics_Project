@@ -12,4 +12,4 @@ This project extracts book data (Title, Price, Rating) from a website using Pyth
 - Saved as CSV
 
 # Output
-Dataanalytics.csv
+Dataanlytics.csv
